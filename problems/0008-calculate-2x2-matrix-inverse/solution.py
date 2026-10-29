@@ -11,10 +11,8 @@ def inverse_2x2(matrix: list[list[float]]) -> list[list[float]] | None:
         (i.e., determinant equals zero)
     """
     # Your code here
-    (a, b), (c, d) = matrix
-    det = a * d - b * c
-    if det == 0:
+
+    m = np.array(matrix, dtype=float)
+    if np.isclose(np.linalg.det(m), 0):
         return None
-    return [[d / det, -b / det],
-            [-c / det, a / det]]
-    
+    return np.linalg.inv(m).tolist()
