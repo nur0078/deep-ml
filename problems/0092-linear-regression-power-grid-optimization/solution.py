@@ -20,8 +20,10 @@ def power_grid_forecast(consumption_data):
     y = m * 15 + c
 
     # 4) Add the day 15 fluctuation back (about 0, since sin(3π) = 0)
-    fluc_y = y + fluc(15)
+	fluc_y = y + fluc(15)
 
     # 5) 5% safety margin, rounded up
+	final = int(math.ceil(1.05 * fluc_y))
+
     # 6) Return an integer
-    return int(math.ceil(1.05 * fluc_y))
+    return final
