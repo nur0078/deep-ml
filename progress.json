@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T21:28:13.124Z",
+  "generated_at": "2026-11-09T00:50:16.847Z",
   "items": {
     "problem:83": {
       "kind": "problem",
@@ -131,6 +131,19 @@
       "path": "math/0412-condition-numbers-why-the-determinant-lies-about-near-singularity",
       "first_solved_at": "2026-11-08T21:28:12.473Z",
       "last_pushed_at": "2026-11-08T21:28:12.473Z"
+    },
+    "problem:1820": {
+      "kind": "problem",
+      "id": "1820",
+      "title": "Recursive Least Squares for Simple Linear Regression",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1820",
+      "path": "problems/1820-recursive-least-squares-for-simple-linear-regression",
+      "first_solved_at": "2026-11-09T00:50:15.935Z",
+      "last_pushed_at": "2026-11-09T00:50:15.935Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
