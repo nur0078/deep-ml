@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**19** solved · 10 problems · 0 labs · 9 math
+**20** solved · 10 problems · 0 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -29,6 +29,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-11-09 | [solution](math/0001-derivatives-and-gradients) |
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-11-09 | [solution](math/0005-gradient-descent-updates) |
+| [Why Minibatches: Gradient Variance vs Batch Size](https://www.deep-ml.com/math-problems/130) | easy | 2026-11-10 | [solution](math/0130-why-minibatches-gradient-variance-vs-batch-size) |
 | [Condition Numbers: Why the Determinant Lies About Near-Singularity](https://www.deep-ml.com/math-problems/412) | medium | 2026-11-08 | [solution](math/0412-condition-numbers-why-the-determinant-lies-about-near-singularity) |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-10-28 | [solution](math/0012-inverse-and-rank) |
 | [Least Squares and the Normal Equations](https://www.deep-ml.com/math-problems/34) | medium | 2026-11-04 | [solution](math/0034-least-squares-and-the-normal-equations) |
