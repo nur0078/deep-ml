@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**21** solved · 11 problems · 0 labs · 10 math
+**22** solved · 12 problems · 0 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Recursive Least Squares for Simple Linear Regression](https://www.deep-ml.com/problems/1820) | easy | 2026-11-09 | [solution](problems/1820-recursive-least-squares-for-simple-linear-regression) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-11-09 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-11-05 | [solution](problems/0092-linear-regression-power-grid-optimization) |
+| [Mini-Batch Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/803) | medium | 2026-11-12 | [solution](problems/0803-mini-batch-gradient-descent-step-for-linear-regression) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-11-09 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
 | [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-11-12 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
 
