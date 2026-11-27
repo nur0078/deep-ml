@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**31** solved · 21 problems · 0 labs · 10 math
+**32** solved · 22 problems · 0 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -32,6 +32,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-11-16 | [solution](problems/0313-numerical-gradient-checking) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-11-09 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
 | [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-11-12 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
+| [Tensor Puzzle: Cumulative Sum via Triangular Matmul](https://www.deep-ml.com/problems/1274) | medium | 2026-11-27 | [solution](problems/1274-tensor-puzzle-cumulative-sum-via-triangular-matmul) |
 | [Tensor Puzzle: Flatten a Matrix by Indexing](https://www.deep-ml.com/problems/1284) | medium | 2026-11-27 | [solution](problems/1284-tensor-puzzle-flatten-a-matrix-by-indexing) |
 
 ## Math
