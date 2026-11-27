@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**24** solved · 14 problems · 0 labs · 10 math
+**25** solved · 15 problems · 0 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-11-04 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Recursive Least Squares for Simple Linear Regression](https://www.deep-ml.com/problems/1820) | easy | 2026-11-09 | [solution](problems/1820-recursive-least-squares-for-simple-linear-regression) |
 | [Tensor Puzzle: Ones Vector from First Principles](https://www.deep-ml.com/problems/1268) | easy | 2026-11-27 | [solution](problems/1268-tensor-puzzle-ones-vector-from-first-principles) |
+| [Tensor Puzzle: Sum a Vector with a Dot Product](https://www.deep-ml.com/problems/1269) | easy | 2026-11-27 | [solution](problems/1269-tensor-puzzle-sum-a-vector-with-a-dot-product) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-11-09 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-11-05 | [solution](problems/0092-linear-regression-power-grid-optimization) |
 | [Mini-Batch Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/803) | medium | 2026-11-12 | [solution](problems/0803-mini-batch-gradient-descent-step-for-linear-regression) |
